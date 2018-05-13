@@ -367,7 +367,7 @@ section {
 
 /*////////// FOOTER //////////*/
   footer {
-    test-align: center;
+    text-align: center;
     font-size: 0.75em;
     padding: 10px;
     background: #eee;
