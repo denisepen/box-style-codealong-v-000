@@ -343,7 +343,7 @@ section {
 /*////////// DETAILS //////////*/
 #detils {
   border-top: 1px solid white;
-  
+
 }
 
 
@@ -368,8 +368,8 @@ section {
 /*////////// FOOTER //////////*/
   footer {
     test-align: center;
-    font-size: 0,75em;
-    paddin: 10px;
+    font-size: 0.75em;
+    padding: 10px;
     background: #eee;
     border-top: 1px solid #ccc
   }
